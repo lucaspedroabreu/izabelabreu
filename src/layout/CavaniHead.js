@@ -3,8 +3,8 @@ const CavaniHead = () => {
   return (
     <Head>
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-      <meta name="description" content="Name of your web site" />
-      <meta name="author" content="Marketify" />
+      <meta name="description" content="Veja meu portfólio" />
+      <meta name="author" content="Izabel Abreu" />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"

@@ -157,7 +157,7 @@ const Header = () => {
             className="text no-underline text-black uppercase font-poppins text-[25px] font-extrabold tracking-[2px] leading-[70px]"
             href="#"
           >
-            <span className="relative top-[2px]">Cavani</span>
+            <span className="relative top-[2px]">Izabel Abreu</span>
           </a>
         </div>
         <div className="menu relative">
