@@ -35,6 +35,11 @@ const Home = () => {
           <span className="line inline-block w-[70px] h-[5px] bg-[#333] mb-[30px]" />
           <TypingAnimation />
           <div className="cavani_tm_button transition_link">
+            <a href="#contact" onClick={() => navChange("about")}>
+              Conheça Izabel Abreu
+            </a>
+          </div>
+          <div className="cavani_tm_button transition_link mt-2">
             <a href="#contact" onClick={() => navChange("contact")}>
               Entre em contato
             </a>
